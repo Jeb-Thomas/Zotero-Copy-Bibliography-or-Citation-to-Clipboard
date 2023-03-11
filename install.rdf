@@ -5,9 +5,8 @@
     <em:description>Copy a bibliography from selected items to clipboard</em:description>
     <em:id>date-from-last-modified@iris-advies.com</em:id>
     <em:version>0.0.1</em:version>
-    <em:homepageURL>https://donutcraft.games</em:homepageURL>
+    <em:homepageURL>https://github.com/Jeb-Thomas/Zotero-Copy-Bibliography-or-Citation-to-Clipboard</em:homepageURL>
     <em:creator>Jebediah Thomas</em:creator>
-    <em:updateURL>https://donutcraft.games/update.rdf</em:updateURL>
     <em:type>2</em:type>
     <em:targetApplication>
       <Description>
