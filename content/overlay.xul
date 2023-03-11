@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://zotero-copy-bib-to-clipboard/skin/overlay.css" type="text/css"?>
+<!DOCTYPE window SYSTEM "chrome://zotero-copy-bib-to-clipboard/locale/zotero-copy-bib-to-clipboard.dtd">
+
+<overlay id="zotero-copy-bib-to-clipboard-overlay"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	
+	<!-- Include the main extension logic -->
+  <script src="chrome://zotero-copy-bib-to-clipboard/content/zotero-copy-bib-to-clipboard.js"/>
+</overlay>

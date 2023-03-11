@@ -1,0 +1,5 @@
+content	zotero-copy-bib-to-clipboard				content/
+locale	zotero-copy-bib-to-clipboard	en-US		locale/en-US/
+skin	zotero-copy-bib-to-clipboard	default		skin/
+
+overlay	chrome://zotero/content/zoteroPane.xul	chrome://zotero-copy-bib-to-clipboard/content/overlay.xul
